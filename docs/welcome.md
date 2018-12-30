@@ -18,16 +18,16 @@ Zobacz [Rozpoczynanie pracy z platformą .NET Core](core/get-started.md) dowiesz
 
 Twórz wiele rodzajów aplikacji przy użyciu platformy .NET, takich jak chmury, Internetu rzeczy i gry za pomocą bezpłatnych narzędzi dla wielu platform. Twoje aplikacje mogą być uruchamiane w systemach Android, iOS, systemu Linux, macOS i Windows. Wdrażanie aplikacji na serwery lub komputery stacjonarne i publikowanie sklepów z aplikacjami dla wdrożenia na urządzeniach przenośnych. .NET jest dostępny dla uczniów i hobbystów, a wszystkie mogą uczestniczyć w społeczności ich ożywienia deweloperów do międzynarodowych i bezpośredniego wkład w wiele technologii .NET.
 
-## <a name="news"></a>wiadomości
+## <a name="news"></a>Wiadomości
 
-Najnowsze wiadomości dotyczące platformy .NET Sprawdź następujących blogach:
+Najnowsze wiadomości dotyczące platformy .NET znajdziesz na następujących blogach:
 
 - [.NET Blog](https://blogs.msdn.microsoft.com/dotnet/)
 - [Blog platformy ASP.NET](https://blogs.msdn.microsoft.com/webdev/)
 - [Blog Visual Studio](https://blogs.msdn.microsoft.com/visualstudio/)
 - [Zespół programu Visual Basic](https://blogs.msdn.microsoft.com/vbteam/)
 
-To samo wykonać również najnowszych zdarzeń platformy .NET:
+Podobnie dla platformy .NET:
 
 - [Microsoft Connect()](https://www.microsoft.com/connectevent)
 - [Microsoft Build 2018](https://channel9.msdn.com/Events/Build/2018)
